@@ -39,4 +39,8 @@
     * Sugestão 2: Videos Favoritos
     * Sugestão 3: A decidir...
 
+* Tela Administrador/Professor
+    * Sugestão 1: Listar videos publicados
+    * Sugestão 2: Local para subir novo video e publicar
+
 * Tela Sobre
