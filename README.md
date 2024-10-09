@@ -26,12 +26,10 @@
     * Sugestão 2: Descrição do Video
     * Sugestão 3: Listar e Permitir Comentarios ao video
     * Sugestão 4: Listar links (Tipo button) com as funções relevantes como:
-        * Curtir
         * Marcar como asistido
-        * Comentario
-        * Assistir mais tarde
         * Favoritar
         * Compartilhar
+        * Anotações
     * Sugestão 5: A decidir...
 
 * Tela Perfil do Usuario
