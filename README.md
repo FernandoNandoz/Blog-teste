@@ -42,3 +42,61 @@
     * Sugestão 2: Local para subir novo video e publicar
 
 * Tela Sobre
+
+
+## Banco de Dados
+
+### Tabelas
+
+* Usuario
+    * **Atributos**
+    * idUuario
+    * nome
+    * sobrenome
+    * matricula
+    * perfil
+    * email
+    * usuario
+    * senha
+    * createdAt
+    * updatedAt
+
+* Perfil
+    * **Atributos**
+    * idPerfil
+    * titulo
+    * descricao
+    * createdAt
+    * updatedAt
+
+* Video
+    * **Atributos**
+    * ??????
+
+* Historico
+    * **Atributos**
+    * idHistorico
+    * idUsuarioFK
+    * idVideoFK
+    * dataVideoAberto
+    * statusVideo (Marca como assistido ou Não)
+    * createdAt
+    * updatedAt
+
+* Favoritos
+    * **Atributos**
+    * idFavorito
+    * idUsuarioFK
+    * idVideoFK
+    * createdAt
+    * updatedAt
+
+* Anotações 
+    * **Atributos**
+    * idAnotacao
+    * idUsuarioFK
+    * idVideoFK
+    * data
+    * descricao
+    * createdAt
+    * updatedAt
